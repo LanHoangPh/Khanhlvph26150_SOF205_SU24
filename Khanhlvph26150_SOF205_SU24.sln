@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GUI", "Khanhlvph26150_SOF205_SU24\GUI.csproj", "{9DF0D457-E148-475C-8C6C-8838D462D52B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "1. DAL\DAL.csproj", "{60354499-C95A-46A4-8FD2-F318B1835616}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BUS", "2. BUS\BUS.csproj", "{1CEE1258-6255-4205-8E2E-E73D0DC809CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DF0D457-E148-475C-8C6C-8838D462D52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF0D457-E148-475C-8C6C-8838D462D52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF0D457-E148-475C-8C6C-8838D462D52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF0D457-E148-475C-8C6C-8838D462D52B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60354499-C95A-46A4-8FD2-F318B1835616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60354499-C95A-46A4-8FD2-F318B1835616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60354499-C95A-46A4-8FD2-F318B1835616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60354499-C95A-46A4-8FD2-F318B1835616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CEE1258-6255-4205-8E2E-E73D0DC809CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CEE1258-6255-4205-8E2E-E73D0DC809CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CEE1258-6255-4205-8E2E-E73D0DC809CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CEE1258-6255-4205-8E2E-E73D0DC809CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A454703F-1282-42D6-AA2C-B5190AB98CFB}
+	EndGlobalSection
+EndGlobal
